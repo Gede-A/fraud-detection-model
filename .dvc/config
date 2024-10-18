@@ -1,0 +1,4 @@
+[core]
+    remote = myremotedvc
+['remote "myremotedvc"']
+    url = C:\Users\User\Desktop\DVC\MY_DVC
