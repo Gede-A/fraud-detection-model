@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/Accademy%2010/FintechAI/week8%269/fraud-detection-model/notebooks/mlruns/102641559284356466/8ac885ba7bfa43dca3da2558850344c2/artifacts
+end_time: 1729542439046
+entry_point_name: ''
+experiment_id: '102641559284356466'
+lifecycle_stage: active
+run_id: 8ac885ba7bfa43dca3da2558850344c2
+run_name: nimble-vole-861
+run_uuid: 8ac885ba7bfa43dca3da2558850344c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729542430423
+status: 3
+tags: []
+user_id: User

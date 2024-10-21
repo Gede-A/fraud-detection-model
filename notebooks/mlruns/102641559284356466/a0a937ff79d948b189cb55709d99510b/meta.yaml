@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/Accademy%2010/FintechAI/week8%269/fraud-detection-model/notebooks/mlruns/102641559284356466/a0a937ff79d948b189cb55709d99510b/artifacts
+end_time: 1729542463353
+entry_point_name: ''
+experiment_id: '102641559284356466'
+lifecycle_stage: active
+run_id: a0a937ff79d948b189cb55709d99510b
+run_name: sincere-fish-10
+run_uuid: a0a937ff79d948b189cb55709d99510b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729542460968
+status: 3
+tags: []
+user_id: User
