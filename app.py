@@ -4,7 +4,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load data
-fraud_data = pd.read_csv('fraud_data.csv')
+fraud_data = pd.read_csv('./data/fraud_data.csv')
 
 # Endpoint for summary statistics
 @app.route('/summary', methods=['GET'])
